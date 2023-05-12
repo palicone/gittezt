@@ -7,4 +7,6 @@ Sample repo to test git, GitHub, file... features
       A-->C;
       B-->D;
       C-->D;
+      E-->D;
+      E-->C;
 ```
